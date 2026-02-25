@@ -4,6 +4,12 @@
 #   1. To make exception, prefix with '!' (means 'not to include') rather than #
 #      modify the standardized list                                            #
 ################################################################################
+*.ico
+*.jpg
+*.jpeg
+*.png
+*.avif
+*.webp
 
 
 
